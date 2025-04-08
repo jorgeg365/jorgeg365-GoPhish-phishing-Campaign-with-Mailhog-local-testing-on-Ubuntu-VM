@@ -94,6 +94,8 @@ Fore Email Template copy the source code of a facebook email from your email and
 
 ![Screenshot 2025-04-08 174926](https://github.com/user-attachments/assets/4b75ac37-48ef-4eda-a7f8-6ef02da09519)
 
+Fill out Envelope sender with a good believable email receiver will see this.
+
 ![Screenshot 2025-04-08 191105](https://github.com/user-attachments/assets/547112d5-9c77-4e03-9e2e-5fe0ef97e467)
 
 
