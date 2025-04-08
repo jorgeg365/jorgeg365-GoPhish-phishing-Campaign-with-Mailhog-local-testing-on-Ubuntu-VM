@@ -106,6 +106,34 @@ On Sending Profile smtp from fillout with believable smtp from and for local hos
 
 ![Screenshot 2025-04-08 191137](https://github.com/user-attachments/assets/b8f0498e-4886-48d5-bce2-e4652516b5cc)
 
+Create a New Campaign and use local host form VM
+
+![Screenshot 2025-04-08 191213](https://github.com/user-attachments/assets/d996755e-5f62-46f0-907a-6b1100532f72)
+
+Gp to Dashboard to view 
+
+![Screenshot 2025-04-08 183411](https://github.com/user-attachments/assets/9be4b367-66d0-4bca-b892-d7922ffb8640)
+
+On browser open new tab and type in http://localhost:8025 to view MailHog Web UI
+
+![Screenshot 2025-04-08 183436](https://github.com/user-attachments/assets/b8137985-6aa5-467c-9884-71698328b74e)
+
+🧠 Done!
+You now have a local phishing lab with:
+
+GoPhish for testing realistic campaigns
+
+MailHog to catch test emails safely
+
+Full control over templates, landing pages, and campaign results
+
+
+
+
+
+
+
+
 
 
 
