@@ -82,6 +82,9 @@ screen -S MailHog
 press ctrl + a + d   to keep it running and be able to start Gophish
 ![Screenshot 2025-04-08 182003](https://github.com/user-attachments/assets/5df95e74-b796-45b1-816f-48e2d1098507)
 
+Go back to gophish browser and refresh page and re log-in
+
+
 
 
 
