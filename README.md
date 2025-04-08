@@ -102,7 +102,9 @@ For Landing page you will go to browser to facebook and copy the log in page and
 
 ![Screenshot 2025-04-08 191122](https://github.com/user-attachments/assets/7d3406da-50d3-404c-97ab-623850f499c1)
 
+On Sending Profile smtp from fillout with believable smtp from and for local host use the smtp server for MailHog
 
+![Screenshot 2025-04-08 191137](https://github.com/user-attachments/assets/b8f0498e-4886-48d5-bce2-e4652516b5cc)
 
 
 
