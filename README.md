@@ -110,7 +110,7 @@ Create a New Campaign and use local host form VM
 
 ![Screenshot 2025-04-08 191213](https://github.com/user-attachments/assets/d996755e-5f62-46f0-907a-6b1100532f72)
 
-Gp to Dashboard to view 
+Go to Dashboard to view 
 
 ![Screenshot 2025-04-08 183411](https://github.com/user-attachments/assets/9be4b367-66d0-4bca-b892-d7922ffb8640)
 
