@@ -88,6 +88,18 @@ Go to Users & Groups and name is Facebook put Joe Fname and Joe Lname email I go
 
 ![Screenshot 2025-04-08 174448](https://github.com/user-attachments/assets/7df71c25-04b3-48c8-a8f4-bcae62b6957b)
 
+Fore Email Template copy the source code of a facebook email from your email and click import email and past there.
+
+![Screenshot 2025-04-08 185052](https://github.com/user-attachments/assets/e6e54ba1-c039-4939-ad7c-32433541bf74)
+
+![Screenshot 2025-04-08 174926](https://github.com/user-attachments/assets/4b75ac37-48ef-4eda-a7f8-6ef02da09519)
+
+![Screenshot 2025-04-08 191105](https://github.com/user-attachments/assets/547112d5-9c77-4e03-9e2e-5fe0ef97e467)
+
+
+
+
+
 
 
 
