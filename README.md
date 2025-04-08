@@ -54,4 +54,35 @@ You can change the password in config.json later if needed.
 
 ![Screenshot 2025-04-08 172738](https://github.com/user-attachments/assets/771c11f8-e7b9-46cb-b3ce-01a5db4919e0)
 
+📬 Step 3: Install MailHog (SMTP Catcher)
+Option A: Install with Go (cleanest option)
+```bash
+sudo apt install golang-go -y
+go install github.com/mailhog/MailHog@latest
+```
+Run MailHog:
+```bash
+~/go/bin/MailHog
+```
+You have to run both Gophish and MailHog at the same time so you need to use screen -S
+🖥️ Install screen on Ubuntu
+Just run:
+```bash
+sudo apt update
+sudo apt install screen -y
+```
+Find MaiHog in Directory should be 
+
+![Screenshot 2025-04-08 181803](https://github.com/user-attachments/assets/7933a412-3cf9-4187-8293-6a435e6255eb)
+
+then run 
+```bash
+screen -S MailHog
+```
+press ctrl + a + d   to keep it running and be able to start Gophish
+![Screenshot 2025-04-08 182003](https://github.com/user-attachments/assets/5df95e74-b796-45b1-816f-48e2d1098507)
+
+
+
+
 
