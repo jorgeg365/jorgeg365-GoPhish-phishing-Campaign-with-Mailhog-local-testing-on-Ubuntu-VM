@@ -118,7 +118,7 @@ On browser open new tab and type in http://localhost:8025 to view MailHog Web UI
 
 ![Screenshot 2025-04-08 183436](https://github.com/user-attachments/assets/b8137985-6aa5-467c-9884-71698328b74e)
 
-🧠 Done!
+# 🧠 Done!
 You now have a local phishing lab with:
 
 GoPhish for testing realistic campaigns
