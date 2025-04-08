@@ -16,7 +16,7 @@ wget https://github.com/gophish/gophish/releases/download/v0.12.1/gophish-v0.12.
 unzip gophish-v0.12.1-linux-64bit.zip
 cd gophish
 ```
-cd go phish did not work for me so use this if that's the case 
+<cd gophish> did not work for me so use this if that's the case 
 
 ```bash
 chmod +x gophish
