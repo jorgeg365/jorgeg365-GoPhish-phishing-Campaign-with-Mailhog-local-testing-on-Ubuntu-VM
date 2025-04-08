@@ -84,7 +84,9 @@ press ctrl + a + d   to keep it running and be able to start Gophish
 
 Go back to gophish browser and refresh page and re log-in
 I'll use my example
-Go to Users & Groups and name is Facebook put Joe Fname and Joe Lname email I google a temporay email site and filled that slot with that
+Go to Users & Groups and name is Facebook put Joe Fname and Joe Lname email I google a temporay email site and filled that slot with that. Save changes
+
+![Screenshot 2025-04-08 174448](https://github.com/user-attachments/assets/7df71c25-04b3-48c8-a8f4-bcae62b6957b)
 
 
 
