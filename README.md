@@ -34,3 +34,18 @@ Phishing server on http://0.0.0.0:80
 
 ⚠️ First-time use will show a default admin password—copy it.
 
+🔐 Step 2: Access GoPhish Admin Interface
+In your browser, go to:
+
+```bash
+https://localhost:3333
+```
+
+Login using:
+
+Username: admin
+
+Password: (from the terminal output)
+
+You can change the password in config.json later if needed.
+
