@@ -34,6 +34,9 @@ Phishing server on http://0.0.0.0:80
 
 ⚠️ First-time use will show a default admin password—copy it.
 
+![Screenshot 2025-04-08 172702](https://github.com/user-attachments/assets/4c32489e-dc38-4b16-9d1c-ede489f8d598)
+
+
 🔐 Step 2: Access GoPhish Admin Interface
 In your browser, go to:
 
@@ -48,4 +51,7 @@ Username: admin
 Password: (from the terminal output)
 
 You can change the password in config.json later if needed.
+
+![Screenshot 2025-04-08 172738](https://github.com/user-attachments/assets/771c11f8-e7b9-46cb-b3ce-01a5db4919e0)
+
 
