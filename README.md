@@ -1,4 +1,4 @@
-# jorgeg365-GoPhish-phishing-Campaign-with-Mailhog-local-testing-on-Ubuntu-VM
+# GoPhish phishing Campaign with Mailhog local testing on UbuntuVM
 
 🧰 Full Setup: GoPhish + MailHog on Ubuntu VM
 ✅ Prerequisites
